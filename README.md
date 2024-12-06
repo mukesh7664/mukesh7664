@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mukesh Soni!  
 
 🚀 **Full Stack Developer & DevOps Engineer**  
-🎯 Founder of [Nirdesham Agency](https://nirdesham.com)  
 
 ## 🔧 Specialties  
 - **Tech Stack:** JavaScript/TypeScript, Node.js, React, Next.js, Express, Liquid, Flutter  
