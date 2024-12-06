@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Mukesh Soni!  
 
-<!--
-**anjaan7664/anjaan7664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer & DevOps Engineer**  
+🌟 CEO of [Satlaa Jewel Private Limited](https://satlaa.com)  
+🎯 Founder of [Nirdesham Agency](https://nirdesham.com)  
 
-Here are some ideas to get you started:
+## 🔧 Specialties  
+- **Tech Stack:** JavaScript/TypeScript, Node.js, React, Next.js, Express, Liquid, Flutter, PHP  
+- **DevOps:** AWS, Linux, Nginx  
+- **E-Commerce:** Shopify development, MERN stack  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** TailwindCSS, Firebase, WordPress  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Expertise  
+- Scalable & secure enterprise-level applications  
+- Building responsive websites & apps for Android/iOS  
+- Shopify theme development & Liquid coding  
+- Digital marketing: SEO, Google Ads, Meta Ads  
+
+## 🖌️ Design  
+- Proficient in Figma & Adobe Photoshop  
+
+## 💼 Current Projects  
+1. **E-commerce solutions** with Shopify & MERN stack  
+2. Developing  **GammaShield** for secure end to end encryption messaging
+3. Managing blogs via WordPress & Nginx integration  
+
+
+
+---
+
+📫 **Let's connect:**  
+📧 [mukesh@nirdesham.com](mailto:mukesh@nirdesham.com)  
+🌐 [Portfolio](https://nirdesham.com)  
+📍 Based in Jodhpur, India  
