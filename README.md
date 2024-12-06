@@ -5,8 +5,8 @@
 🎯 Founder of [Nirdesham Agency](https://nirdesham.com)  
 
 ## 🔧 Specialties  
-- **Tech Stack:** JavaScript/TypeScript, Node.js, React, Next.js, Express, Liquid, Flutter, PHP  
-- **DevOps:** AWS, Linux, Nginx  
+- **Tech Stack:** JavaScript/TypeScript, Node.js, React, Next.js, Express, Liquid, Flutter  
+- **DevOps:** AWS, Linux, Nginx, CI/CD Github Actions
 - **E-Commerce:** Shopify development, MERN stack  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** TailwindCSS, Firebase, WordPress  
@@ -22,7 +22,7 @@
 
 ## 💼 Current Projects  
 1. **E-commerce solutions** with Shopify & MERN stack  
-2. Developing  **GammaShield** for secure end to end encryption messaging
+2. Developing  **GammaShield** for secure end-to-end encryption messaging
 3. Managing blogs via WordPress & Nginx integration  
 
 
