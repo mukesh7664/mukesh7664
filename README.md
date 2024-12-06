@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mukesh Soni!  
 
 🚀 **Full Stack Developer & DevOps Engineer**  
-🌟 CEO of [Satlaa Jewel Private Limited](https://satlaa.com)  
 🎯 Founder of [Nirdesham Agency](https://nirdesham.com)  
 
 ## 🔧 Specialties  
