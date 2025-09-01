@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer & DevOps Engineer**  
 
 ## 🔧 Specialties  
-- **Tech Stack:** JavaScript/TypeScript, Node.js, React, Next.js, Express, Liquid, Flutter  
+- **Tech Stack:** JavaScript/TypeScript, Node.js, React, Next.js, Express, Liquid, TailwindCSS  
 - **DevOps:** AWS, Linux, Nginx, CI/CD Github Actions
 - **E-Commerce:** Shopify development, MERN stack  
 - **Databases:** MongoDB, MySQL  
@@ -11,18 +11,12 @@
 
 ## 📈 Expertise  
 - Scalable & secure enterprise-level applications  
-- Building responsive websites & apps for Android/iOS  
+- Building responsive websites & apps 
 - Shopify theme development & Liquid coding  
 - Digital marketing: SEO, Google Ads, Meta Ads  
 
 ## 🖌️ Design  
 - Proficient in Figma & Adobe Photoshop  
-
-## 💼 Current Projects  
-1. **E-commerce solutions** with Shopify & MERN stack  
-2. Developing  **GammaShield** for secure end-to-end encryption messaging
-3. Managing blogs via WordPress & Nginx integration  
-
 
 
 ---
