@@ -18,7 +18,7 @@
 ## 🖌️ Design  
 - Proficient in Figma & Adobe Photoshop  
 ---
-![Your Contribution Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mukesh7664&hide_border=true)
+![Your Contribution Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mukesh7664&hide_border=true&theme=dark)
 
 
 
