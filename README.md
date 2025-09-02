@@ -18,7 +18,7 @@
 ## 🖌️ Design  
 - Proficient in Figma & Adobe Photoshop  
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh7664&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh7664&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
