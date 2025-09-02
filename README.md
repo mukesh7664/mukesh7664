@@ -18,7 +18,9 @@
 ## 🖌️ Design  
 - Proficient in Figma & Adobe Photoshop  
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukesh7664&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Your Contribution Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mukesh7664&hide_border=true)
+
+
 
 
 
