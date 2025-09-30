@@ -16,7 +16,12 @@
 - Digital marketing: SEO, Google Ads, Meta Ads  
 
 ## 🖌️ Design  
-- Proficient in Figma & Adobe Photoshop  
+- Proficient in Figma & Adobe Photoshop
+
+## Inital Projects
+- 1st Website(2017) - [Desijewel.in](https://web.archive.org/web/20171127064439/http://desijewel.in/)  (Current- SATLAA.com)
+- 1st Andoid App(2017)- [Desi Jewellery](https://nirdesham.com](https://play.google.com/store/apps/details?id=satlaa.desijewellery&hl=en_IN))    (Current- SATLAA Gold)
+  
 ---
 ![Your Contribution Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mukesh7664&hide_border=true&theme=dark)
 
