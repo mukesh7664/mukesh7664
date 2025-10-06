@@ -32,5 +32,5 @@
 
 📫 **Let's connect:**  
 📧 [mukesh@nirdesham.com](mailto:mukesh@nirdesham.com)  
-🌐 [Portfolio](https://nirdesham.com)  
+
 📍 Based in Jodhpur, India  
